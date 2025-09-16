@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iomatip>
+#include <iomanip>
 using namespace std;
 
 int main (){
@@ -9,12 +9,12 @@ int main (){
 	cout<<"Nilai a: "<<a<<",Nilai b: "<<b<<",Nilai c: "<<c<<endl;
 
 	cout<<"Nilai a: "<<a;
-	cout<<"Nilai b: "<<b;
+	cout<<"Nilai b: "<<b<<endl;
 	cout<<"Nilai c: "<<c<<endl;
 
 	cout<<"Nilai a: "<<a;
-	cout<<"Nilai b: "<<b<<endl;
-	cout<<"Nilai c: "<<c;
+	cout<<"Nilai b: "<<b;
+	cout<<"Nilai c: "<<c<<endl;
 
 	cout<<"Tabel Penjualan"<<endl;
 	cout<<"----------------------"<<endl;
